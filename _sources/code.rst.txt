@@ -1,5 +1,5 @@
 Auto Generated Code Documentation
 =================================
-.. automodule:: hw1
+.. automodule:: hw1_Wang_Yuhan
 	:members:
 	:undoc-members:
